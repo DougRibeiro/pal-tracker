@@ -4,4 +4,4 @@ applications:
   routes:
   - route: pal-tracker-dr-appreciative-review.apps.pikes.pal.pivotal.io
   env:
-    WELCOME_MESSAGE: Hello from the review environment/
+    WELCOME_MESSAGE: Hello from the review environment
